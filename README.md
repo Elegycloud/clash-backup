@@ -12,11 +12,11 @@
     <img src="https://img.shields.io/travis/Dreamacro/clash.svg?style=flat-square"
          alt="Travis-CI">
   </a>
-  <a href="https://goreportcard.com/report/github.com/Dreamacro/clash">
+  <a href="https://goreportcard.com/report/github.com/Elegybackup/clash-backup">
       <img src="https://goreportcard.com/badge/github.com/Dreamacro/clash?style=flat-square">
   </a>
-  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=shield"/></a>
-  <a href="https://github.com/Dreamacro/clash/releases">
+  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2FElegybackup%2Fclash-backup?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=shield"/></a>
+  <a href="https://github.com/Elegybackup/clash-backup">
     <img src="https://img.shields.io/github/release/Dreamacro/clash/all.svg?style=flat-square">
   </a>
 </p>
@@ -40,10 +40,10 @@
 You can build from source:
 
 ```sh
-go get -u -v github.com/Dreamacro/clash
+go get -u -v github.com/Elegybackup/clash-backup
 ```
 
-Pre-built binaries are available: [release](https://github.com/Dreamacro/clash/releases)
+Pre-built binaries are available: [release](https://github.com/Elegybackup/clash-backup)
 
 Requires Go >= 1.10.
 
@@ -61,7 +61,7 @@ pm2 start clash
 
 If you have Docker installed, you can run clash directly using `docker-compose`.
 
-[Run clash in docker](https://github.com/Dreamacro/clash/wiki/Run-clash-in-docker)
+[Run clash in docker](https://github.com/Elegybackup/clash-backup/wiki/Run-clash-in-docker)
 
 ## Config
 
