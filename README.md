@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Elegybackup/clash-backup/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://raw.githubusercontent.com/Elegybackup/clash-backup/main/docs/logo.png" alt="Clash" width="200">
   <br>
   Clash
   <br>
