@@ -26,7 +26,7 @@
 - 由于作者已经跑路，当前为Clash最新备份
 - 文件已上传完整，若无法使用，请提交Issues
 - 当前备份号（202311112035）
-- 若侵犯的您的权利，请通过[issues](https://github.com/Elegybackup/clash-backup/issues)联系我删除本仓库！
+- 若侵犯的您的权利，请通过[issues](https://github.com/Elegycloud/clash-backup/issues)联系我删除本仓库！
 - 请各位且行且珍惜！
 
 ## Features
@@ -43,7 +43,7 @@ You can build from source:
 go get -u -v github.com/Elegybackup/clash-backup
 ```
 
-Pre-built binaries are available: [release](https://github.com/Elegybackup/clash-backup)
+Pre-built binaries are available: [release](https://github.com/Elegycloud/clash-backup)
 
 Requires Go >= 1.10.
 
@@ -61,7 +61,7 @@ pm2 start clash
 
 If you have Docker installed, you can run clash directly using `docker-compose`.
 
-[Run clash in docker](https://github.com/Elegybackup/clash-backup/wiki/Run-clash-in-docker)
+[Run clash in docker](https://github.com/Elegycloud/clash-backup/wiki/Run-clash-in-docker)
 
 ## Config
 
